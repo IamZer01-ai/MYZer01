@@ -1,59 +1,109 @@
 # MYZer01
-Educational Ethical Hacking Lab covering the complete penetration testing lifecycle: Reconnaissance, Scanning &amp; Enumeration, Vulnerability Assessment, Exploitation (authorized environments only), and Reporting &amp; Remediation.
-# Ethical Hacking Learning Lab
-This repository documents the ethical hacking methodology used during authorized security assessments and lab environments.
+Educational Ethical Hacking Lab covering the complete penetration testing lifecycle: Reconnaissance, Scanning &amp; Enumeration, Vulnerability Assessment, Exploitation (authorized environments only), and Reporting &amp; Remediation.# Ethical Hacking Learning Lab
 
-## Phase 1 – Reconnaissance
-Objective:
-* Gather publicly available information about the target.
-* Identify technologies, domains, and exposed services.
-Common Tools:
-* WHOIS
-* DNS Lookup
-* Nmap
-* OSINT Framework
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Platform](https://img.shields.io/badge/Platform-Linux-blue)
+![Focus](https://img.shields.io/badge/Focus-Cybersecurity-red)
+![License](https://img.shields.io/badge/License-Private-lightgrey)
 
-## Phase 2 – Scanning & Enumeration
+A personal cybersecurity learning repository documenting the ethical hacking lifecycle, security assessment methodologies, lab exercises, notes, and research conducted in authorized environments.
 
-Objective:
-* Discover open ports and running services.
-* Enumerate applications and technologies.
-Common Tools:
-* Nmap
-* Nikto
-* WPScan
-* Gobuster
-## Phase 3 – Vulnerability Assessment
-Objective:
-* Identify security weaknesses and misconfigurations.
-* Analyze potential attack paths.
-Common Tools:
-* Nessus
-* OpenVAS
-* Nuclei
-* Manual Verification
-  
-## Phase 4 – Controlled Validation
-Objective:
-* Verify identified vulnerabilities in authorized lab environments.
-* Assess impact and exploitability.
+---
 
-Activities:
+## Overview
+
+This repository serves as a centralized knowledge base for cybersecurity concepts, penetration testing methodologies, security tools, and defensive security practices.
+
+---
+
+## Learning Roadmap
+
+### Phase 1 — Reconnaissance
+
+* Open-Source Intelligence (OSINT)
+* Target Profiling
+* Domain Enumeration
+* Information Gathering
+* Technology Fingerprinting
+
+### Phase 2 — Scanning & Enumeration
+
+* Network Discovery
+* Port Scanning
+* Service Enumeration
+* Web Application Enumeration
+* Technology Detection
+
+### Phase 3 — Vulnerability Assessment
+
+* Vulnerability Identification
+* Security Misconfiguration Analysis
+* Risk Assessment
+* CVE Research
+* Attack Surface Mapping
+
+### Phase 4 — Controlled Validation
+
+* Security Verification
 * Proof-of-Concept Testing
 * Configuration Review
-* Security Validation
+* Impact Assessment
+* Defensive Analysis
 
-## Phase 5 – Reporting & Remediation
-Objective:
-* Document findings.
-* Recommend mitigations and security improvements.
+### Phase 5 — Reporting & Remediation
 
-Deliverables:
-* Executive Summary
-* Technical Findings
-* Risk Ratings
-* Remediation Guidance
+* Documentation
+* Risk Prioritization
+* Security Recommendations
+* Mitigation Strategies
+* Final Reporting
+
+---
+
+## Repository Structure
+
+```text
+Ethical-Hacking-Lab/
+│
+├── 01-Reconnaissance/
+├── 02-Scanning-Enumeration/
+├── 03-Vulnerability-Assessment/
+├── 04-Controlled-Validation/
+├── 05-Reporting-Remediation/
+├── Notes/
+├── Resources/
+└── README.md
+```
+
+## Learning Objectives
+
+* Understand cybersecurity fundamentals
+* Learn ethical hacking methodologies
+* Practice in authorized lab environments
+* Improve security assessment skills
+* Develop professional reporting habits
+
+---
+
+## Tools Studied
+
+* Nmap
+* Wireshark
+* Burp Suite Community Edition
+* WPScan
+* OpenVAS
+* OWASP ZAP
+* Nikto
+* Gobuster
+
+---
 
 ## Disclaimer
 
-This repository is intended solely for educational purposes and authorized security testing. All testing must be performed only on systems for which explicit permission has been granted.
+This repository is intended solely for educational purposes and authorized security testing. All activities must be performed only on systems and environments where explicit permission has been granted. Unauthorized access or testing of systems is illegal and unethical.
+
+---
+
+## Author
+
+Maintained as a personal cybersecurity learning and research project.
