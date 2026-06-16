@@ -1,5 +1,5 @@
-# MYZer01
-Educational Ethical Hacking Lab covering the complete penetration testing lifecycle: Reconnaissance, Scanning &amp; Enumeration, Vulnerability Assessment, Exploitation (authorized environments only), and Reporting &amp; Remediation.# Ethical Hacking Learning Lab
+# Ethical Hacking Learning Lab
+Educational Ethical Hacking Lab covering the complete penetration testing lifecycle: Reconnaissance, Scanning &amp; Enumeration, Vulnerability Assessment, Exploitation (authorized environments only), and Reporting &amp; Remediation.# 
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Platform](https://img.shields.io/badge/Platform-Linux-blue)
